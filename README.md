@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # Hi! I'm Expedito Avelino 🖖 👽 🇧🇷 🍻 🏖️
 ---
 ![giphy](https://user-images.githubusercontent.com/28222394/172021816-f97ee654-4e21-4208-8d3a-c3635bed24a5.gif) ![giphy](https://user-images.githubusercontent.com/28222394/172021906-0f7de492-2748-4396-9451-52340cdb1df5.gif)
@@ -23,5 +20,3 @@ Conheça mais meus projetos:
 * Meus projetos no [GitHub](https://github.com/ExASN)
 * Visite meu [LinkedIn](https://www.linkedin.com/in/expedito-a-s-neto-eng-automacao/)
 * Me segue lá no [Instagram](https://www.instagram.com/engexpeditoavelino)
-
--->
